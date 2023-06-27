@@ -5,7 +5,7 @@ Intro - Steve's Car Showroom
 Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights.
 Can you analyse the following data to provide him with all the answers he requires?
 
-Tables used are : [image][Steves Car Showroom](https://github.com/vinodmk23j/SQL-Challenge---1-Steel-Data/assets/137643595/07a0601c-1a8c-46e1-a123-17a697774ddb)
+Tables used are : [Steves Car Showroom](https://github.com/vinodmk23j/SQL-Challenge---1-Steel-Data/assets/137643595/07a0601c-1a8c-46e1-a123-17a697774ddb)
 
 
 Questions:
