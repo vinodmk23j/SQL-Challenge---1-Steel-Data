@@ -1,7 +1,9 @@
-Intro - Marketing Analysis
+Intro 
 
 You are a Healthcare Analyst
 You have been asked to analyse the hospital records to track the progress of some common illnesses so you can help inform a public health programme.
+
+Image for the Schema : 
 
 Questions:
 1. Write a SQL query to retrieve all patients who have been diagnosed with COVID-19
