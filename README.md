@@ -3,7 +3,7 @@ Intro - Steve's Car Showroom
 Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights.
 Can you analyse the following data to provide him with all the answers he requires?
 
-Tables used are : https://www.steeldata.org.uk/challenge1tables.jpg
+Tables used are : (image) [https://www.steeldata.org.uk/challenge1tables.jpg]
 
 Questions:
 1. What are the details of all cars purchased in the year 2022?
